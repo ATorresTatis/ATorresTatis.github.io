@@ -17,7 +17,7 @@ baseurl: ""
 title: PS-3082
 
 # Short description of your site
-description: xx
+description: [System.Globalization.CultureInfo]::CreateSpecificCulture("ES")
 
 # --- Navigation bar options --- #
 
