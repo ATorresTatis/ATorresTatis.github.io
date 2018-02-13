@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: PS3082
+title: PS-3082
 
 # Short description of your site
 description: [System.Globalization.CultureInfo]::CreateSpecificCulture('ES')
