@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acerca de
-subtitle: Why you'd want to go on a date with me
+subtitle: PS> Write-Bio -Scope 'Me'
 ---
 
 Mi nombre es Alvaro Torres Tatis. Soy un entusiasta de PowerShell desde :scream: …. ya no lo recuerdo !!! desde hace mucho.
