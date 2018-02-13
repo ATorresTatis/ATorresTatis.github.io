@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
+title: Acerca de
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mi nombre es Alvaro Torres Tatis. Soy un entusiasta de PowerShell desde :scream: …. ya no lo recuerdo !!! desde hace mucho.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Cree este espacio para intentar ~~rellenar~~ mejorar la evidente necesidad de información de PowerShell en español. Disfruto aprendiendo y compartiendo lo que descubro. 
 
-What else do you need?
+He trabajado en la Gerencia Técnica de [Processa](https://processa.com) por más de 10 años en diferentes roles relacionados con el desarrollo de software. 
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Desconfió de todo aquel que no le guste tomar café. 
