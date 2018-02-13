@@ -10,4 +10,4 @@ Cree este espacio para intentar ~~rellenar~~ mejorar la evidente necesidad de in
 
 He trabajado en la Gerencia Técnica de [Processa](https://processa.com) por más de 10 años en diferentes roles relacionados con el desarrollo de software. 
 
-Desconfió de todo aquel que no le guste tomar café. 
+Desconfió de todo aquel que no le gusta tomar café. 
